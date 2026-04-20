@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+mlflow
+google-cloud-storage
+ipykernel
+xgboost
+catboost
+dill

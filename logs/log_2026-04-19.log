@@ -1,0 +1,74 @@
+2026-04-19 14:57:18,927 - INFO - Data Ingestion method starts
+2026-04-19 14:57:18,939 - INFO - reading the dataset as dataframe
+2026-04-19 14:57:18,939 - ERROR - Error occured in Data Ingestion method
+2026-04-19 14:57:58,697 - INFO - Data Ingestion method starts
+2026-04-19 14:57:58,703 - INFO - reading the dataset as dataframe
+2026-04-19 14:57:58,713 - INFO - train test split initiated
+2026-04-19 14:57:58,726 - INFO - train test split completed
+2026-04-19 14:57:58,726 - INFO - Data Ingestion method completed
+2026-04-19 15:06:01,292 - INFO - Data Ingestion method starts
+2026-04-19 15:06:01,315 - INFO - reading the dataset as dataframe
+2026-04-19 15:06:01,315 - INFO - Loaded 1000 rows, 8 columns
+2026-04-19 15:06:01,326 - INFO - train test split initiated
+2026-04-19 15:06:01,346 - INFO - train test split completed
+2026-04-19 15:06:01,346 - INFO - Data Ingestion method completed
+2026-04-19 16:01:32,808 - INFO - Data Ingestion method starts
+2026-04-19 16:01:32,817 - INFO - reading the dataset as dataframe
+2026-04-19 16:01:32,817 - INFO - Loaded 1000 rows, 8 columns
+2026-04-19 16:01:32,823 - INFO - train test split initiated
+2026-04-19 16:01:32,835 - INFO - train test split completed
+2026-04-19 16:01:32,835 - INFO - Data Ingestion method completed
+2026-04-19 16:01:32,835 - INFO - numerical columns scalling completed
+2026-04-19 16:01:32,835 - INFO - categorical columns one-hot encoding completed
+2026-04-19 16:01:32,838 - INFO - read training and testing data completed
+2026-04-19 16:01:32,841 - INFO - seperating input and target feature completed
+2026-04-19 16:01:32,841 - INFO - applying preprocessing object on training and testing features
+2026-04-19 16:01:32,853 - ERROR - Error occured in Data Transformation method 
+2026-04-19 16:04:28,638 - INFO - Data Ingestion method starts
+2026-04-19 16:04:28,641 - INFO - reading the dataset as dataframe
+2026-04-19 16:04:28,641 - INFO - Loaded 1000 rows, 8 columns
+2026-04-19 16:04:28,642 - INFO - train test split initiated
+2026-04-19 16:04:28,647 - INFO - train test split completed
+2026-04-19 16:04:28,647 - INFO - Data Ingestion method completed
+2026-04-19 16:04:28,647 - INFO - numerical columns scalling completed
+2026-04-19 16:04:28,647 - INFO - categorical columns one-hot encoding completed
+2026-04-19 16:04:28,650 - INFO - read training and testing data completed
+2026-04-19 16:04:28,652 - INFO - seperating input and target feature completed
+2026-04-19 16:04:28,652 - INFO - applying preprocessing object on training and testing features
+2026-04-19 16:04:28,659 - ERROR - Error occured in Data Transformation method 
+2026-04-19 16:05:14,119 - INFO - Data Ingestion method starts
+2026-04-19 16:05:14,123 - INFO - reading the dataset as dataframe
+2026-04-19 16:05:14,123 - INFO - Loaded 1000 rows, 8 columns
+2026-04-19 16:05:14,126 - INFO - train test split initiated
+2026-04-19 16:05:14,130 - INFO - train test split completed
+2026-04-19 16:05:14,130 - INFO - Data Ingestion method completed
+2026-04-19 16:05:14,130 - INFO - numerical columns scalling completed
+2026-04-19 16:05:14,130 - INFO - categorical columns one-hot encoding completed
+2026-04-19 16:05:14,133 - INFO - read training and testing data completed
+2026-04-19 16:05:14,134 - INFO - seperating input and target feature completed
+2026-04-19 16:05:14,134 - INFO - applying preprocessing object on training and testing features
+2026-04-19 16:05:14,143 - ERROR - Error occured in Data Transformation method 
+2026-04-19 16:06:52,064 - INFO - Data Ingestion method starts
+2026-04-19 16:06:52,064 - INFO - reading the dataset as dataframe
+2026-04-19 16:06:52,064 - INFO - Loaded 1000 rows, 8 columns
+2026-04-19 16:06:52,075 - INFO - train test split initiated
+2026-04-19 16:06:52,080 - INFO - train test split completed
+2026-04-19 16:06:52,080 - INFO - Data Ingestion method completed
+2026-04-19 16:06:52,080 - INFO - numerical columns scalling completed
+2026-04-19 16:06:52,080 - INFO - categorical columns one-hot encoding completed
+2026-04-19 16:06:52,083 - INFO - read training and testing data completed
+2026-04-19 16:06:52,084 - INFO - seperating input and target feature completed
+2026-04-19 16:06:52,084 - INFO - applying preprocessing object on training and testing features
+2026-04-19 16:06:52,094 - ERROR - Error occured in Data Transformation method 
+2026-04-19 16:11:46,919 - INFO - Data Ingestion method starts
+2026-04-19 16:11:46,927 - INFO - reading the dataset as dataframe
+2026-04-19 16:11:46,927 - INFO - Loaded 1000 rows, 8 columns
+2026-04-19 16:11:46,930 - INFO - train test split initiated
+2026-04-19 16:11:46,939 - INFO - train test split completed
+2026-04-19 16:11:46,939 - INFO - Data Ingestion method completed
+2026-04-19 16:11:46,939 - INFO - numerical columns scalling completed
+2026-04-19 16:11:46,939 - INFO - categorical columns one-hot encoding completed
+2026-04-19 16:11:46,943 - INFO - read training and testing data completed
+2026-04-19 16:11:46,945 - INFO - seperating input and target feature completed
+2026-04-19 16:11:46,945 - INFO - applying preprocessing object on training and testing features
+2026-04-19 16:11:46,962 - INFO - Saved preprocessing object.
